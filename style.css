@@ -16,7 +16,6 @@ body {
   align-items: center;
   justify-content: space-between;
   background-color: rgb(57, 56, 56);
-  position: fixed;
   top: 0;
   z-index: 1000;
 }
